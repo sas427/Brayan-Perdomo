@@ -16,7 +16,7 @@ Estudiante de ingieneria de sistemas  aprendiendo  sobre bases de datos,software
  <!--LINKEDIN-->
 <div>
 <a href="https://www.linkedin.com/in/brayan-perdomo-baa789240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img align="left" alt="Brayan Perdomo | Linkedin" width="68" height="66" src="./assets/gifs/social-networks/linkedin.gif" /></a> 
+<img align="left" alt="sas427| Linkedin" width="68" height="66" src="./assets/gifs/linkedin.gif" /></a> 
 </div> 
  <!--FIN LINKEDIN-->
  
