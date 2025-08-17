@@ -3,7 +3,7 @@
   <img src="./assets/gifs/future" />
 </div>
 <div align="center">
-    <img width="50" height="40" src="./assets/gifs/spheres/earth.gif" /> Mi Perfil  
+    <img width="50" height="40" src="./assets/gifs/earth.gif" /> Mi Perfil  
 </div>
 
 <div align="left">
