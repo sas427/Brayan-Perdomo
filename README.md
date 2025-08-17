@@ -1,6 +1,6 @@
 <!----------Presentation---------------->
-<div align="future">
-  <img src="./assets/gifs/future" />
+<div align="future.gif">
+  <img src="./assets/gifs/future.gif" />
 </div>
 <div align="center">
     <img width="50" height="40" src="./assets/gifs/earth.gif" /> Mi Perfil  
