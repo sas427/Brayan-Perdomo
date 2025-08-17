@@ -36,7 +36,7 @@ Estudiante de ingieneria de sistemas  aprendiendo  sobre bases de datos,software
 <div style="display: inline-block;">
   <img width="45" height="37" alt="sqlserver" src="./assets/img/sqlserver.png" />
   <img width="45" height="37" alt="mysql" src="./assets/img/mysql.png" />
-  <img width="45" height="37" alt="pyton" src="./assets/img/pyton.png" />
+  <img width="45" height="37" alt="pyton" src="./assets/img/pyton.jpg" />
   <img width="45" height="37" alt="photoshop" src="./assets/img/photoshop.png" />
-  <img width="45" height="37" alt="canva" src="./assets/img/canva.png" />
+  <img width="45" height="37" alt="canva" src="./assets/img/canva.jpeg" />
   <div>
